@@ -1,0 +1,15 @@
+#carousel {
+    padding: 20px;
+}
+
+#card {
+    padding: 50px 0;
+}
+
+.card-body p {
+    font-size: 1.3em;
+}
+
+.card {
+    margin-bottom: 15px;
+}
